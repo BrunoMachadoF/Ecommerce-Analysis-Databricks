@@ -1,1 +1,1 @@
-This is a Data Engineering project using Databricks for a pos grad in Data Science in PUC Rio.
+This repository will be used for publishing the Data Engineering MVP for the data science postgraduate program at PUC Rio.
